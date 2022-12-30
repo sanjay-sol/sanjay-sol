@@ -1,6 +1,6 @@
 ### Hi there 👋 ! I'm Sanjay
 
-💫 About Me:<br>🌱 I’m currently learning Solidity & React.js<br>🚀 Obsessed in Building DApps
+<!-- 💫 About Me:<br>🌱 I’m currently learning Solidity & React.js<br> -->
 
 
 ## 🌐 Socials:

@@ -1,6 +1,6 @@
 
 ### Hi there 👋 ! I'm Sanjay
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PiAsIVbLn6UAAAAC/crypto-did-you-say-crypto.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/4LQU.gif">
 
 
 <!-- 💫 About Me:<br>🌱 I’m currently learning Solidity & React.js<br> -->

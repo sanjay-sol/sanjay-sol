@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/the-office-dwight-schrute-rainn-wilson-a-bit-extreme-gif-25819050">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/tlK5UQj8bc8AAAAC/the-office-dwight-schrute.gif">
 ### Hi there 👋 ! I'm Sanjay
 
 <!-- 💫 About Me:<br>🌱 I’m currently learning Solidity & React.js<br> -->

@@ -1,5 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/tlK5UQj8bc8AAAAC/the-office-dwight-schrute.gif">
+
 ### Hi there 👋 ! I'm Sanjay
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/tlK5UQj8bc8AAAAC/the-office-dwight-schrute.gif">
+
 
 <!-- 💫 About Me:<br>🌱 I’m currently learning Solidity & React.js<br> -->
 

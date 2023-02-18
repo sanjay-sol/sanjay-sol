@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://tenor.com/en-GB/view/crypto-did-you-say-crypto-gif-23193960)">
 ### Hi there 👋 ! I'm Sanjay
 
 <!-- 💫 About Me:<br>🌱 I’m currently learning Solidity & React.js<br> -->

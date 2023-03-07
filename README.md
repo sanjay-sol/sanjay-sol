@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀  How u doin' ? 👋 ! I'm Sanjay .<br>🔭  I’m currently exploring Decentralised technology .<br>🤝  I’m looking for help with building Dapps .<br>🌱  I’m currently learning MERN stack .<br>
+🚀  How u doin' ? 👋 ! I'm Sanjay .<br>🔭  I’m currently exploring Decentralised technology .<br>🤝  I’m looking for help with building Dapps .<br>🌱  I’m currently learning MERN stack and DSA (Java) .<br>
 
 
 ## 🌐 Socials:

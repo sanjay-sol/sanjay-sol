@@ -1,5 +1,5 @@
 # Hey there! 👋 Sanjay here, how's it going? 🚀:
-🔭 Exploring new tech stacks and problem-solving.<br>🧠 Love applying math .<br>🤝 Open to collaborations that drive innovation. Let's connect!
+🔭 Exploring new tech stacks and problem-solving.<br>🧠 Love applying math.<br>🤝 Open to collaborations that drive innovation. Let's connect!
 
 
 ## 🌐 Socials:

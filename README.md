@@ -1,6 +1,6 @@
 # Hey there! 👋 Sanjay here, how's it going? 🚀:
-- 🔭 Exploring new tech stacks and problem-solving.
-- 🧠 Love applying math.
+- 🧠 Love applying Math and Problem Solving.
+- 🔭 Exploring new tech stacks and Open Source.
 - 🤝 Open to collaborations that drive innovation. Let's connect! 
 - 📫 Reach me at **sanjaysirangi@gmail.com**
 

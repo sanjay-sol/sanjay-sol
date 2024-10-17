@@ -31,7 +31,7 @@
 <details><summary>Implementation Projects ⚙️</summary>
 
 - [**My Own Redis:**](https://github.com/sanjay-sol/redis-implementation) Redis-like system implementation written in TypeScript.
-- [**Load Balancer:**](https://github.com/sanjay-sol/YieldBearing-and-Airdrops/tree/main/contracts) Load Balancer based on Round-Robin and Max-Heap written in Go.
+- [**Load Balancer:**](https://github.com/sanjay-sol/Load_Balancer) Load Balancer based on Round-Robin and Max-Heap written in Go.
 - [**p2p file system:**](https://github.com/sanjay-sol/p2p-DistributedFileSystem) p2p Distributed File System written in Go.
 - [**Thread Safe Queue:**](https://github.com/sanjay-sol/thread-safe-queue) A simple thread safe queue to  written in Go.
 </details>

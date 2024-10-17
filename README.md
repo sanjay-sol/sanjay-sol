@@ -28,15 +28,15 @@
 [![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
 ## Some of my Projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<details><summary>Implementation Projects</summary>
+<details><summary>Implementation Projects ⚙️</summary>
 
-- [**My Own Redis:**](https://github.com/sanjay-sol/redis-implementation) Redis-like system implementation written in TypeScript.
+- ✅ [**My Own Redis:**](https://github.com/sanjay-sol/redis-implementation) Redis-like system implementation written in TypeScript.
 - [**Load Balancer:**](https://github.com/sanjay-sol/YieldBearing-and-Airdrops/tree/main/contracts) Load Balancer based on Round-Robin and Max-Heap written in Go.
 - [**p2p file system:**](https://github.com/sanjay-sol/p2p-DistributedFileSystem) p2p Distributed File System written in Go.
 - [**Thread Safe Queue:**](https://github.com/sanjay-sol/thread-safe-queue) A simple thread safe queue to  written in Go.
 </details>
 
-<details><summary>Smart Contracts</summary>
+<details><summary>Smart Contracts  𝌋</summary>
 
 - [**HTLC for Atomic Swaps:**](https://github.com/sanjay-sol/AtomicSwaps-HTLC/blob/main/contracts/HTLC.sol) The HTLC smart contract facilitates cross-chain token swaps ( BSC and Sepolia ).
 - [**Multi Sig Wallet:**](https://github.com/sanjay-sol/Multi-Sig-Wallet-Contract/blob/main/contracts/Multisig.sol) This smart contract implements a multi-signature wallet,

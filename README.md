@@ -25,7 +25,8 @@
 <a href="https://discord.gg/3945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3945" height="30" width="40" /></a> -->
 </p>
 
-## Some projects of mine:
+[![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
+## Some of my Projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 <details><summary>Implementation Projects</summary>
 
@@ -53,6 +54,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-sol&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 --- -->
-[![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -31,6 +31,7 @@
 <details><summary>Implementation Projects ⚙️</summary>
 
 - [**Bloom Filters:**](https://github.com/luma-labs/bloom-filter) Bloom Filter Implementation written in Go.
+- [**SHA-256:**](https://github.com/sanjay-sol/sha256-implementation) SHA-256 Hash Function Implementation written in Go.
 - [**My Own Redis:**](https://github.com/sanjay-sol/redis-implementation) Redis-like system implementation written in TypeScript.
 - [**Load Balancer:**](https://github.com/sanjay-sol/Load_Balancer) Load Balancer based on Round-Robin and Max-Heap written in Go.
 - [**p2p file system:**](https://github.com/sanjay-sol/p2p-DistributedFileSystem) p2p Distributed File System written in Go.

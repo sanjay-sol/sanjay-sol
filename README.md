@@ -28,7 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
 ## Some of my Projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-Implementation Projects ⚙️
+#### Implementation Projects ⚙️
 
 - [**Bloom Filters:**](https://github.com/luma-labs/bloom-filter) Bloom Filter Implementation written in Go.
 - [**SHA-256:**](https://github.com/sanjay-sol/sha256-implementation) SHA-256 Hash Function Implementation written in Go.
@@ -38,7 +38,7 @@ Implementation Projects ⚙️
 - [**Thread Safe Queue:**](https://github.com/sanjay-sol/thread-safe-queue) A simple thread safe queue to  written in Go.
 
 
-Smart Contracts  𝌋
+#### Smart Contracts  𝌋
 
 - [**HTLC for Atomic Swaps:**](https://github.com/sanjay-sol/AtomicSwaps-HTLC/blob/main/contracts/HTLC.sol) The HTLC smart contract facilitates cross-chain token swaps ( BSC and Sepolia ).
 - [**Multi Sig Wallet:**](https://github.com/sanjay-sol/Multi-Sig-Wallet-Contract/blob/main/contracts/Multisig.sol) This smart contract implements a multi-signature wallet,

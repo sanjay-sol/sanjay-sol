@@ -28,7 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
 ## Some of my Projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<details><summary>Implementation Projects ⚙️</summary>
+Implementation Projects ⚙️
 
 - [**Bloom Filters:**](https://github.com/luma-labs/bloom-filter) Bloom Filter Implementation written in Go.
 - [**SHA-256:**](https://github.com/sanjay-sol/sha256-implementation) SHA-256 Hash Function Implementation written in Go.
@@ -36,15 +36,15 @@
 - [**Load Balancer:**](https://github.com/sanjay-sol/Load_Balancer) Load Balancer based on Round-Robin and Max-Heap written in Go.
 - [**p2p file system:**](https://github.com/sanjay-sol/p2p-DistributedFileSystem) p2p Distributed File System written in Go.
 - [**Thread Safe Queue:**](https://github.com/sanjay-sol/thread-safe-queue) A simple thread safe queue to  written in Go.
-</details>
 
-<details><summary>Smart Contracts  𝌋</summary>
+
+Smart Contracts  𝌋
 
 - [**HTLC for Atomic Swaps:**](https://github.com/sanjay-sol/AtomicSwaps-HTLC/blob/main/contracts/HTLC.sol) The HTLC smart contract facilitates cross-chain token swaps ( BSC and Sepolia ).
 - [**Multi Sig Wallet:**](https://github.com/sanjay-sol/Multi-Sig-Wallet-Contract/blob/main/contracts/Multisig.sol) This smart contract implements a multi-signature wallet,
 - [**Airdrop and Yield Bearing:**](https://github.com/sanjay-sol/YieldBearing-and-Airdrops/tree/main/contracts) Distribute tokens through airdrops, merkle proofs generation and rewards users for staking.
 - [**Diamond Pattern:**](https://github.com/sanjay-sol/Solidity-Diamond-Design-Pattern/tree/main/contracts) Understanding standard ways to write smart contracts.
-</details>
+
 
 <!-- ##  Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 

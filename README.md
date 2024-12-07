@@ -46,6 +46,10 @@
 - [**Airdrop and Yield Bearing:**](https://github.com/sanjay-sol/YieldBearing-and-Airdrops/tree/main/contracts) Distribute tokens through airdrops, merkle proofs generation and rewards users for staking.
 - [**Diamond Pattern:**](https://github.com/sanjay-sol/Solidity-Diamond-Design-Pattern/tree/main/contracts) Understanding standard ways to write smart contracts.
 
+#### Cairo and StarkNet 🔮
+
+- [**Cairo ERC721:**](https://github.com/sanjay-sol/ERC721-cairo/blob/main/src/erc721Base.cairo) A simple ERC721 contract implementation in Cairo for StarkNet.
+
 
 <!-- ##  Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 

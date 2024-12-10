@@ -54,7 +54,9 @@
 
 | **Project Name**                            | **Description**                                                                                 | **Status** |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------|------------|
+| [Uniswap-Cairo](https://github.com/sanjay-sol/uniswap_cairo)      | This is a Uniswap v2 AMM implemented in Cairo.                                 | ✅ Completed |
 | [Cairo ERC721](https://github.com/sanjay-sol/ERC721-cairo/blob/main/src/erc721Base.cairo)      | A simple ERC721 contract implementation in Cairo for StarkNet.                                  | 🚧 In Progress |
+
 
 <!-- ##  Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 

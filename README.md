@@ -50,12 +50,13 @@
 | [Airdrop and Yield Bearing](https://github.com/sanjay-sol/YieldBearing-and-Airdrops/tree/main/contracts) | Distribute tokens via airdrops and merkle proofs, rewards users for staking.                    | ✅ Completed |
 | [Diamond Pattern](https://github.com/sanjay-sol/Solidity-Diamond-Design-Pattern/tree/main/contracts) | Standard approach for writing modular smart contracts.                                           | ✅ Completed |
 
-#### Cairo and StarkNet 🔮
+#### zk 🎛️
 
 | **Project Name**                            | **Description**                                                                                 | **Status** |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------|------------|
+| [Base64 Encoder and Decoder](https://github.com/sanjay-sol/noir_base_64_lib)      | base64 and URL encoding and decoding over fixed sized arrays and vectors.                                 | ✅ Completed |
 | [Uniswap-Cairo](https://github.com/sanjay-sol/uniswap_cairo)      | This is a Uniswap v2 AMM implemented in Cairo.                                 | ✅ Completed |
-| [Cairo ERC721](https://github.com/sanjay-sol/ERC721-cairo/blob/main/src/erc721Base.cairo)      | A simple ERC721 contract implementation in Cairo for StarkNet.                                  | 🚧 In Progress |
+| [Cairo ERC721](https://github.com/sanjay-sol/ERC721-cairo/blob/main/src/erc721Base.cairo)      | A simple ERC721 contract implementation in Cairo for StarkNet.                                  | ✅ Completed |
 
 
 <!-- ##  Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">

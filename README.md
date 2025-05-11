@@ -1,9 +1,8 @@
 # > Hey there! 👋 I'm Sanjay, how's it going?:  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
-- Exploring Starknet.
-- I love Problem Solving and writing Smart contracts.
-- Interested in implementing things.
+- Zero Knowledge and Cryptography.
+- Exploring Noir, Aztec and Starknet.
 - 📫 Reach me at **sanjaysirangi@gmail.com**
 
 ## Socials: <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />

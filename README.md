@@ -28,22 +28,11 @@
 [![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
 
 ## Some of my Projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
-#### Implementation Projects ⚙️
-
-| **Project Name**                            | **Description**                                                                                 | **Status** |
-|---------------------------------------------|-------------------------------------------------------------------------------------------------|------------|
-| [Bloom Filters](https://github.com/luma-labs/bloom-filter)      | Bloom Filter Implementation written in Go.                                                       | ✅ Completed |
-| [SHA-256](https://github.com/sanjay-sol/sha256-implementation)  | SHA-256 Hash Function Implementation written in Go.                                               | ✅ Completed |
-| [My Own Redis](https://github.com/sanjay-sol/redis-implementation) | Redis-like system implementation written in TypeScript.                                          | ✅ Completed |
-| [Load Balancer](https://github.com/sanjay-sol/Load_Balancer)     | Load Balancer based on Round-Robin and Max-Heap written in Go.                                   | ✅ Completed |
-| [p2p file system](https://github.com/sanjay-sol/p2p-DistributedFileSystem) | p2p Distributed File System written in Go.                                                       | ✅ Completed |
-| [Thread Safe Queue](https://github.com/sanjay-sol/thread-safe-queue) | A thread safe queue written in Go.                                                        | ✅ Completed |
-
-#### Smart Contracts  𝌋
+#### Smart Contracts and Blockchain  𝌋
 
 | **Project Name**                            | **Description**                                                                                 | **Status** |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------|------------|
+| [E-Vault on Blockchain](https://github.com/sanjay-sol/shamirs) | Secure e-vault system leveraging blockchain and Cryptography.                                           | ✅ Completed |
 | [HTLC for Atomic Swaps](https://github.com/sanjay-sol/AtomicSwaps-HTLC/blob/main/contracts/HTLC.sol) | Facilitates cross-chain token swaps (BSC and Sepolia).                                           | ✅ Completed |
 | [Multi Sig Wallet](https://github.com/sanjay-sol/Multi-Sig-Wallet-Contract/blob/main/contracts/Multisig.sol) | Implements a multi-signature wallet.                                                             | ✅ Completed |
 | [Airdrop and Yield Bearing](https://github.com/sanjay-sol/YieldBearing-and-Airdrops/tree/main/contracts) | Distribute tokens via airdrops and merkle proofs, rewards users for staking.                    | ✅ Completed |
@@ -56,6 +45,19 @@
 | [Base64 Encoder and Decoder](https://github.com/sanjay-sol/noir_base_64_lib)      | base64 and URL encoding and decoding over fixed sized arrays and vectors.                                 | ✅ Completed |
 | [Uniswap-Cairo](https://github.com/sanjay-sol/uniswap_cairo)      | This is a Uniswap v2 AMM implemented in Cairo.                                 | ✅ Completed |
 | [Cairo ERC721](https://github.com/sanjay-sol/ERC721-cairo/blob/main/src/erc721Base.cairo)      | A simple ERC721 contract implementation in Cairo for StarkNet.                                  | ✅ Completed |
+
+
+#### Implementation Projects ⚙️
+
+| **Project Name**                            | **Description**                                                                                 | **Status** |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------|------------|
+| [Bloom Filters](https://github.com/luma-labs/bloom-filter)      | Bloom Filter Implementation written in Go.                                                       | ✅ Completed |
+| [SHA-256](https://github.com/sanjay-sol/sha256-implementation)  | SHA-256 Hash Function Implementation written in Go.                                               | ✅ Completed |
+| [My Own Redis](https://github.com/sanjay-sol/redis-implementation) | Redis-like system implementation written in TypeScript.                                          | ✅ Completed |
+| [Load Balancer](https://github.com/sanjay-sol/Load_Balancer)     | Load Balancer based on Round-Robin and Max-Heap written in Go.                                   | ✅ Completed |
+| [p2p file system](https://github.com/sanjay-sol/p2p-DistributedFileSystem) | p2p Distributed File System written in Go.                                                       | ✅ Completed |
+| [Thread Safe Queue](https://github.com/sanjay-sol/thread-safe-queue) | A thread safe queue written in Go.                                                        | ✅ Completed |
+
 
 
 <!-- ##  Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">

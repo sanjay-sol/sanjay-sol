@@ -25,10 +25,10 @@
 <a href="https://discord.gg/3945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3945" height="30" width="40" /></a> -->
 </p>
 
+<!--
 [![](https://visitcount.itsvg.in/api?id=sanjay-sol&icon=1&color=3)](https://visitcount.itsvg.in)
 
 ## Some of my Projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
 #### zk 🎛️
 
 | **Project Name**                            | **Description**                                                                                 | **Status** |
@@ -61,7 +61,7 @@
 | [p2p file system](https://github.com/sanjay-sol/p2p-DistributedFileSystem) | p2p Distributed File System written in Go.                                                       | ✅ Completed |
 | [Thread Safe Queue](https://github.com/sanjay-sol/thread-safe-queue) | A thread safe queue written in Go.                                                        | ✅ Completed |
 
-
+-->
 
 <!-- ##  Tech Stack: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 

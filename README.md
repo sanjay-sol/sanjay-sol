@@ -2,7 +2,7 @@
 
 
 - Zero Knowledge and Cryptography.
-- Exploring Noir, Aztec and Starknet.
+- Exploring Noir and Aztec .
 - 📫 Reach me at **sanjaysirangi@gmail.com**
 
 ## Socials: <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />

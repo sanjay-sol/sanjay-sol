@@ -1,4 +1,4 @@
-# > Hey there! 👋 I'm Sanjay, how's it going?:  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
+#  Hey there! 👋 I'm Sanjay, how's it going?:  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
 - Zero Knowledge, Blockchain and Cryptography.

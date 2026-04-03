@@ -1,14 +1,16 @@
-#  Hey there! 👋 I'm Sanjay, how's it going?:  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
+#  Hello, I'm Sanjay! How's it going? 
+<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> -->
 
 
-- Zero Knowledge, Blockchain and Cryptography.
-- 📫 Reach me at **sanjaysirangi@gmail.com**
-
+- I love math, zero-knowledge proofs, and cryptography.
+- I enjoy turning complex ideas into practical implementations and working close to the underlying systems.
+-  **sanjaysirangi@gmail.com**
+<!--  
 ## Socials: <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 <p align="left" style=" padding: 60px;">
 <!--     <a href="https://www.youtube.com/c/sanjaysirangi"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://www.linkedin.com/in/sanjay-sirangi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<!--   <a href="https://www.linkedin.com/in/sanjay-sirangi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/sanjaysirangi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

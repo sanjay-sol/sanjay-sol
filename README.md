@@ -1,10 +1,8 @@
-#  Hello, I'm Sanjay! How's it going? 
+
 <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"> -->
 
 
-- I love math, zero-knowledge proofs, and cryptography.
-- I enjoy turning complex ideas into practical implementations and working close to the underlying systems.
--  **sanjaysirangi@gmail.com**
+ Hi, I love Math, Zero-Knowledge proofs and Cryptography.
 <!--  
 ## Socials: <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 <p align="left" style=" padding: 60px;">

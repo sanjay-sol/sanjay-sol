@@ -3,6 +3,8 @@
 
 
  Hi, I love Math, Zero-Knowledge proofs and Cryptography.
+ 
+ sanjaysirangi@gmail.com
 <!--  
 ## Socials: <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />
 <p align="left" style=" padding: 60px;">
